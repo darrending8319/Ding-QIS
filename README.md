@@ -1,1 +1,1 @@
-# Spring-2023-Research
+# Quantum Information Research with the Koch Lab
